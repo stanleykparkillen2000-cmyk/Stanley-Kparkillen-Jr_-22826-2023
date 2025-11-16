@@ -1,0 +1,56 @@
+# Personal Portfolio Website
+
+A responsive, modern personal portfolio website built with HTML, CSS, and JavaScript. This project showcases professional profiles with interactive elements and mobile-friendly design.
+
+## 📋 Project Overview
+
+This portfolio website is designed to meet all requirements for a web technology assignment, featuring:
+
+- **Responsive Design** - Works perfectly on both desktop and mobile devices
+- **Modern UI/UX** - Clean, professional design with smooth animations
+- **Complete Content Sections** - All required portfolio sections implemented
+- **Interactive Elements** - JavaScript-powered features for enhanced user experience
+
+## 🚀 Features
+
+### Core Requirements
+- ✅ Profile photo and bio section
+- ✅ Education timeline with institution details
+- ✅ Work experience with responsibilities
+- ✅ Projects showcase with tools and links
+- ✅ Skills display with progress bars
+- ✅ Certificates & awards section
+- ✅ Contact information with social links
+- ✅ Contact form (frontend only)
+
+### Technical Implementation
+- ✅ Semantic HTML5 elements
+- ✅ CSS Grid and Flexbox layouts
+- ✅ Media queries for responsiveness
+- ✅ JavaScript for interactivity
+- ✅ Consistent color scheme and typography
+- ✅ Smooth scrolling navigation
+
+### Bonus Features
+- ✅ FontAwesome icons integration
+- ✅ Downloadable resume link
+- ✅ Hover effects and transitions
+- ✅ Mobile hamburger menu
+- ✅ Animated skill progress bars
+- ✅ Smooth scroll behavior
+
+## 🛠️ Technologies Used
+
+- **HTML5** - Semantic structure and accessibility
+- **CSS3** - Modern styling with Grid, Flexbox, and animations
+- **JavaScript (ES6)** - Interactive functionality
+- **FontAwesome** - Icons for social media and UI elements
+- **Google Fonts** - Typography (implicit through system fonts)
+
+## 📁 File Structure
+portfolio-website/
+│
+├── index.html # Main HTML file
+├── styles.css # All CSS styles
+├── script.js # JavaScript functionality
+└── README.md # Project documentation
